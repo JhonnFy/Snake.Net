@@ -1,2 +1,1 @@
-# Snake
-🐍✨ Arquitectura Por Capas 
+
