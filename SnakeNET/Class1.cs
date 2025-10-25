@@ -1,4 +1,4 @@
-﻿namespace Snake_CapaDatos
+﻿namespace SnakeNET
 {
     public class Class1
     {

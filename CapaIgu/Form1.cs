@@ -1,4 +1,4 @@
-namespace Snake_CapaIgu
+namespace CapaIgu
 {
     public partial class Form1 : Form
     {

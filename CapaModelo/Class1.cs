@@ -1,4 +1,4 @@
-﻿namespace Snake
+﻿namespace CapaModelo
 {
     public class Class1
     {

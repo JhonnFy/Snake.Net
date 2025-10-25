@@ -1,4 +1,4 @@
-﻿namespace Snake_CapaEntidades
+﻿namespace CapaDatos
 {
     public class Class1
     {

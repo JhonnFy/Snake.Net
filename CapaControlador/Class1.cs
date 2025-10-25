@@ -1,4 +1,4 @@
-﻿namespace Snake_CapaNegocio
+﻿namespace CapaControlador
 {
     public class Class1
     {

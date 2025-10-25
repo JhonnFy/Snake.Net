@@ -1,4 +1,4 @@
-namespace Snake_CapaIgu
+namespace CapaIgu
 {
     internal static class Program
     {

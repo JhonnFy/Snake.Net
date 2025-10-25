@@ -1,4 +1,4 @@
-﻿namespace Snake_CapaTesting
+﻿namespace CapaTesting
 {
     [TestClass]
     public sealed class Test1
