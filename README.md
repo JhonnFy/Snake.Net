@@ -14,4 +14,4 @@ Snake CapaTesting
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/06052533-9ca1-40da-a5c1-3d557104ea4b" />
 
 
-
+https://chatgpt.com/c/68fc5f81-2e3c-8326-b6a1-bdeffd047b7f
