@@ -1,4 +1,7 @@
 # 1 Crear El AppConfig
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/1bff542e-69cb-4b58-b178-70c13c8c2690" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/7d79d006-2b48-4f53-9a00-18ea6475cabf" />
+
 
 
 # Crear Los Modelos
