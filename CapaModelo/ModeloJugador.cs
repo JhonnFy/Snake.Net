@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace CapaModelo
 {
-    public class Jugador
+    public class ModeloJugador
     {
         public int IdIdentity { get; set; }
         public int IdJugador { get; set; }
         public string Nombre { get; set; }
         public DateTime FechaRegistro { get; set;  }
 
-        public Jugador()
+        public ModeloJugador()
         {
             IdIdentity = 0;
             IdJugador = 0;
