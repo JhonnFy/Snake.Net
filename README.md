@@ -11,8 +11,8 @@ Snake CapaControlador
 Snake CapaIgu
 Snake CapaTesting
 
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/9eb7d25e-e082-4dba-a435-271cad4c693f" />
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/06052533-9ca1-40da-a5c1-3d557104ea4b" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/161a59f9-2d0e-4fee-aefb-dc4dc9d7e595" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/c2fddcc5-877d-4cc9-b8a5-ef4baecaa87e" />
 
 
 https://chatgpt.com/c/68fc5f81-2e3c-8326-b6a1-bdeffd047b7f
