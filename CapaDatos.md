@@ -1,18 +1,12 @@
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/ff04c697-369e-4823-afe5-f40f3a299dd7" />
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/693ad17b-1086-439e-902d-80251ccd2fd4" />
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/7143c066-072b-4d76-8b13-7018c4df6c6b" />
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/28c75dee-1d8e-4262-be6a-102918b8d40e" />
-
-# Crear las Capas
-Snake CapaEntidades
-Snake CapaDatos
-Snake CapaNegocio
-Snake CapaControlador
-Snake CapaIgu
-Snake CapaTesting
-
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/9eb7d25e-e082-4dba-a435-271cad4c693f" />
-<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/06052533-9ca1-40da-a5c1-3d557104ea4b" />
+# 1 Crear El AppConfig
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/1bff542e-69cb-4b58-b178-70c13c8c2690" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/7d79d006-2b48-4f53-9a00-18ea6475cabf" />
 
 
-https://chatgpt.com/c/68fc5f81-2e3c-8326-b6a1-bdeffd047b7f
+
+# Crear Los Modelos
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/845b40d5-3c5b-4098-b9e1-9411ee2df4c1" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/f2c7a74a-83e1-40cf-b34c-e13fce7928a2" />
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/08836565-e7b3-4794-998a-cf2d6fea6119" />
+
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/f819c79d-9dbe-4b5c-bd52-db39e2f88a89" />
