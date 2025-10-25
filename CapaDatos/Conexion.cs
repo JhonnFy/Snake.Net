@@ -1,13 +1,6 @@
-﻿using Microsoft.Data.SqlClient;
-using Microsoft.Identity.Client;
-using Microsoft.IdentityModel.Tokens;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Configuration;
-using System.Linq;
-using System.Numerics;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.Data.SqlClient;
 
 namespace CapaDatos
 {
@@ -21,13 +14,13 @@ namespace CapaDatos
             {
                 var cs = ConfigurationManager.ConnectionStrings["CadenaSQL"];
                 if (cs == null || string.IsNullOrEmpty(cs.ConnectionString))
-                    throw new Exception("No se encontró la cadena de conexión 'CadenaSQL' o está vacía.");
+                    throw new Exception("[Conexion] No Se Encontró La Cadena De Conexión 'CadenaSQL' o está vacía.");
 
                 cadenaConexion = cs.ConnectionString;
             }
             catch (Exception ex)
             {
-                throw new Exception("Error al inicializar la conexión: " + ex.Message);
+                throw new Exception("[Conexion] Error Al Inicializar La Conexión: " + ex.Message);
             }
         }
 
@@ -39,16 +32,16 @@ namespace CapaDatos
                 using (var conn = new SqlConnection(cadenaConexion))
                 {
                     conn.Open();
-                    return (true, "Conexión exitosa a la base de datos.");
+                    return (true, "[Conexion] Conexión Exitosa A La Base De Datos.");
                 }
             }
             catch (SqlException ex)
             {
-                return (false, $"Error SQL {ex.Number}: {ex.Message}");
+                return (false, $"[Conexion] Error SQL {ex.Number}: {ex.Message}");
             }
             catch (Exception ex)
             {
-                return (false, $"Error general: {ex.Message}");
+                return (false, $"[Conexion] Error general: {ex.Message}");
             }
         }
 
