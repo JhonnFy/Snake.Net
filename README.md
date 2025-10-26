@@ -16,3 +16,34 @@ Snake CapaTesting
 
 
 https://chatgpt.com/c/68fc5f81-2e3c-8326-b6a1-bdeffd047b7f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
