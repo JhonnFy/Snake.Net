@@ -3,6 +3,10 @@
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/7143c066-072b-4d76-8b13-7018c4df6c6b" />
 <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/28c75dee-1d8e-4262-be6a-102918b8d40e" />
 
+
+
+
+
 # Crear las Capas
 Snake CapaEntidades
 Snake CapaDatos
